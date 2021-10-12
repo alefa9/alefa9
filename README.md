@@ -1,7 +1,7 @@
 <h1 align="center">Hello World! 👋, I'm Alejo</h1>
 <h3 align="center">A passionate development student from Argentina</h3>
 
-- 🌱 I’m currently learning **Basic Frontend: HTML, CSS**
+- 🌱 I’m currently learning **Data Analysis with Python**
 
 - 📫 How to reach me **alejofarias99@gmail.com**
 
